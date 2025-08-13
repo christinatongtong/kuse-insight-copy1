@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-cloud-logging
+google-cloud-bigquery
+pydantic
+python-dotenv
+mixpanel
+pinecone
+openai

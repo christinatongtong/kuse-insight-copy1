@@ -1,0 +1,130 @@
+user_id,email,is_student,school,major,degree_level,occupation,industry,primary_language,gender,predict
+48809,shee6260@naver.com,true,-,Political Science,Undergraduate,,Student,Education,Korean,学生，国际关系，政治学科，韩语
+41973,chunihsu@msn.com,-,-,-,-,,-,-,Traditional Chinese,不清楚职业，生成模特图，繁体中文
+51977,hungdqdesign@gmail.com,true,-,"Design, Data Science, or AI/Computer Science",,,"UI/UX Designer, Product Designer, or AI/Data Specialist","Tech/Software (UI/UX, AI, Data Science)",Vietnamese,
+44903,chuni_hsu@yahoo.com.tw,false,-,-,-,,Artist / Art Director / Creative Professional,Art / Creative / Visual Arts,Traditional Chinese,不清楚职业，生成模特图，繁体中文
+50929,52fish525@gmail.com,false,-,-,-,,Designer & Visual Strategist,Design / Creative Services,Traditional Chinese,设计卡片，不清楚职业，设计类学生或者设计师？繁体中文
+4976,aibestudy2024@gmail.com,true,-,Building Services Engineering,Undergraduate,,Student,Education,English,学生，建筑学
+32419,michellehonsn@gmail.com,true,A university in Hong Kong (exact institution unknown),Surveying or Building Surveying,Undergraduate,,Student (Surveying/Building Surveying),Education (Built Environment/Construction/Surveying),English,girl，香港理工大学，測量學，学生
+42263,nhlcathy@gmail.com,true,-,Ophthalmology or Medical Sciences,,,Medical Affairs Specialist / Clinical Researcher,Healthcare / Medical Devices / Ophthalmology,Traditional Chinese,girl，临床眼科学，学生，繁体中文
+5191,whitewflash891@gmail.com,true,-,Computer Science,Undergraduate,,Student,Education,English,man，programming，coding学科，学生
+629,julimpundu@gmail.com,true,University of Chinese Academy of Sciences (UCAS),Condensed Matter Physics,PhD,,PhD Student / Researcher,"Academia / Scientific Research (Physics, Nanomaterials)",English,F，看上去像学工科（电磁学课件）的大学生，但是生成了很多电路结构/电磁波/石墨材料的AI图，不像作业图？英文
+31829,cheungchloe617@gmail.com,true,-,Sports Science or Physical Education,Undergraduate,,Student,Education,Cantonese,F，HONG KONG BAPTIST UNIVERSITY，运动机能学/运动心理学，生成了很多图表，看上去是做作业用的
+47978,helloitsmety114@gmail.com,true,-,Public Administration / Education / Social Sciences,Undergraduate,,Student,Education / Academia,Cantonese,学生，HK，public health，写论文：医疗服务私有化与市场化
+53445,charliecheung048@gmail.com,true,-,Environmental Protection,Higher Diploma,,Student,Education,Cantonese,学生，HK，Higher Diploma in Environmental Protection，写作业+找工作中
+19133,wonghoiyi1013@gmail.com,true,-,Biochemistry,Undergraduate,,Student,Education,Traditional Chinese,学生，生物医学/临床，课程学习+写作业
+6612,heatherman0913@gmail.com,false,-,-,-,,English Teacher / Curriculum Developer / Content Creator,Education (English Language Learning),English,小学老师，HK，出儿童活动+出试卷，生成了很多图
+519,iuliia.lapteva@gmail.com,false,-,-,-,,Project Manager / Communications Specialist / Curator,"International Cooperation, Communications, Nonprofit, Nuclear Energy, Education, Cultural Exchange",Russian,HK，学生？新闻学？public policy？俄语专业？与俄罗斯核电国际峰会关系很大，写了很多新闻稿；生成很多logo图片，中俄足球比赛题材
+54029,s1359217@live.hkmu.edu.hk,true,Hong Kong Metropolitan University,Nursing,Undergraduate,,Student Nurse,Education,English,HK，学生，香港都会大学护理及健康学院，课程学习+写作业
+23883,ivyviolzy@gmail.com,true,-,Nursing,Undergraduate,,Nursing student,Education (Nursing/Healthcare),English,F？（看头像是追星的），HK，学生，护理学，写作业
+1420,katerinarabadzhyiska@gmail.com,false,-,-,-,,UI/UX Designer,Design / Technology / SaaS,English,F，EU，UIUX设计师，做网页设计，生成很多设计图
+3369,yoyocheung801@gmail.com,true,-,Early Childhood Education,Master's,,Student (Early Childhood Education),Education,Cantonese,girl，儿童心理学
+29893,lingkayiu04@gmail.com,true,-,Communication or Public Relations,Undergraduate,,Student,Education,Traditional Chinese,girl，marketing
+49942,ov.e3666@gmail.com,true,-,Nursing,Undergraduate,,Student (Nursing),Education (Nursing/Healthcare),Cantonese,心理学
+17797,funglonghin359@gmail.com,true,The University of Hong Kong (HKU),Korean Studies (Minor) / Business-related field,Undergraduate,,Undergraduate Student,Education (Higher Education/University Student),Traditional Chinese,man，港大，中国文学（不确定是不是这个学科还是每个人都要读的科目）
+62258,s1138095@s.eduhk.hk,true,The Education University of Hong Kong,Speech-Language Pathology / Speech-Language Communication Pathology,Master's,,Graduate Student,Education / Speech-Language Pathology,Cantonese,"香港教育大学, 语言学科"
+61637,s22207395@mail.sfu.edu.hk,true,-,Psychology,Undergraduate,Student,Education,English,-,"聖方濟各大學, 中医"
+61805,moyhingalex@gmail.com,true,-,Nursing,Undergraduate,,Student,Education (Nursing/Healthcare),Traditional Chinese,Man，聖方濟各大學，nursing 
+54669,chingying0122@gmail.com,true,-,Philosophy or Religious Studies,Undergraduate,,Student,Education,Traditional Chinese,哲学科
+1982,woniu652@gmail.com,true,-,"Speech, Language, and Hearing Sciences",Undergraduate,,Student,Education,English,港大，语言治疗
+55775,22._.hyk@jmail.ac.kr,true,Likely a university in South Korea (possibly in Daejeon or with .ac.kr domain),Nursing (Mental Health/Psychiatric Nursing),Undergraduate,,Student,Education (Nursing/Healthcare),Korean,medical student
+19993,yhysecret2005@gmail.com,true,HSUHK (The Hang Seng University of Hong Kong),Accounting or Finance,Undergraduate,,University Student,Education,English,學生，社會學，修改論文-論文主題是宋代瓷枕研究
+38760,chenganson925@gmail.com,true,-,Sports Science or Physical Education,Undergraduate,,Student,Education,English,學生，運動心理學？課程學習+寫作業
+38959,220400320@stu.vtc.edu.hk,true,Hong Kong Institute of Vocational Education (VTC),"Horticulture, Arboriculture, and Landscape Management",Undergraduate,,Student,Environmental Science / Urban Forestry / Arboriculture,English,學生，HK，ESG，課程學習+寫作業
+38898,ken12715@gmail.com,false,-,-,-,,Marketing Specialist,Pet Retail / Pet Supplies,Cantonese,學生，HK，市場營銷，生成很多圖
+6074,isaacsungkh@gmail.com,true,Hong Kong Shue Yan University,Data Science,Undergraduate,,Student,Education,Cantonese,學生，HK，人機交互/計算機，論文
+66601,u112012043@gap.kmu.edu.tw,true,Kaohsiung Medical University,Chemistry,Undergraduate,,Student,Education,Mandarin,學生，TW，化學系，課程學習+翻譯+寫作業，繁体中文
+63181,wingmanleung9406@gmail.com,true,-,"Linguistics or Philosophy (with strong focus on sociolinguistics, philosophy, and social theory)",Undergraduate,,Student,Education,Cantonese,學生，社會語言學，寫論文
+4159,atsatsj0135798@gmail.com,true,-,Humanities or Social Sciences,Undergraduate,,Student,Education,Chinese (Mandarin),學生，像高中生？做語文英語作業
+22404,cyruslo060318@gmail.com,true,The Chinese University of Hong Kong,Physical Education,Undergraduate,,Student (aspiring Physical Education teacher),Education,English,学生，香港中文大学，计算机通识
+19114,20030710christy@gmail.com,true,The University of Hong Kong (HKU),English Language and Linguistics,Undergraduate,,Student,Education,English,
+59176,edmundng1314520@gmail.com,true,-,Sports Science or Fitness Management,Undergraduate,,Student,Education,English,"year 4,student，sport and recreation management"
+61679,1155213702@link.cuhk.edu.hk,true,The Chinese University of Hong Kong (CUHK),-,Undergraduate,,Student,Education,Chinese,香港中文大学， social work学科
+5362,manwaiki1022@gmail.com,true,-,Nutrition or Health Sciences,Undergraduate,,Student,,Cantonese,girl， medical student
+3752,kobywhc@gmail.com,true,-,Social Work,Undergraduate,,Student,Education,Cantonese,國立臺灣師範大學教育心理與輔導學系
+40120,garrick430@gmail.com,true,-,Humanities or Social Sciences,Undergraduate,,Student,Education,Traditional Chinese,HK Baptist Uni，社會學
+4399,ccyanthony127@gmail.com,true,-,Business/Marketing,Undergraduate,,Student,Education,English,生成图片，不清楚职业
+64632,cherrykwong2004@gmail.com,true,-,Psychology,Undergraduate,,Student,Education,Cantonese,girl，social work，学生
+34260,kthlks19728@gmail.com,true,-,Statistics or Chemistry (or related science field),Undergraduate,,Student,Education,English,香港中文大学，化学和统计都有
+63787,melody10221022@gmail.com,true,-,Chemistry,Undergraduate,,Student,Education,Mandarin,girl， 化学，学生，繁体中文
+55006,an.ashley.lam@gmail.com,true,-,Early Childhood Education,Master's,,Kindergarten Teacher,Education,English,girl，教育学科，学生
+40081,ggh7n9@gmail.com,true,The Chinese University of Hong Kong (CUHK),Education (Physical Education focus),Undergraduate,,Student,Education,Cantonese,
+55788,cnrenp0120@gmail.com,true,Hong Kong Metropolitan University (HKMU),Mathematics or Statistics,Undergraduate,,Student,Education,Cantonese,
+28662,henrybearhk@gmail.com,false,-,-,-,,Technical Support Specialist,Home Appliance Service/Repair,Cantonese,
+3036,leungcrystal0215@gmail.com,true,-,Business/Economics/Finance,Undergraduate,,Student,Education,English,
+68030,jessiesmap@gmail.com,true,"University of California, Berkeley",Law (Intellectual Property Law),Master's (LL.M.) or J.D.,,Law student,Legal education,Traditional Chinese,
+54056,chanjason421@gmail.com,true,-,Finance or Business,Undergraduate,,Student,Education,English,
+29039,thomas.kao530@gmail.com,true,-,Wine and Spirits,Professional Certification/Diploma,,Wine Professional / Sommelier / Wine Educator,Wine and Beverage / Hospitality,Traditional Chinese,不清楚职业，茶酒文化研究？
+36748,cheungyiwai01@gmail.com,true,-,Sports and Recreation Management,Undergraduate,,Student,Education,Cantonese,
+18591,emily12319655@gmail.com,true,-,Chemistry or Biochemistry,Undergraduate,,Student,Education,Traditional Chinese (Mandarin),学生，化学
+2770,ho9018703@gmail.com,true,-,Biological Sciences or Life Sciences,Undergraduate,,Student,Education,English,
+55792,linziyi09092004@gmail.com,true,-,Psychology,Undergraduate,,Student,Education,English,
+16139,saiyushek32@gmail.com,true,-,Health Sciences or Sports Science,Undergraduate,,Student,Education,Chinese (Traditional),
+68215,jacklei.2461@gmail.com,true,-,Rehabilitation Science / Kinesiology / Biomedical Engineering,Master's,,Student,Education / Academia,Traditional Chinese,学生，运动科学，生成了很多图
+30161,s94043154@gmail.com,true,-,Engineering,Undergraduate,,Student,Higher Education,Cantonese,
+49997,diego_vicinanza@hotmail.com,false,-,-,-,,Video Editor / Motion Designer (Freelance),"Media & Creative (Video Production, Motion Design)",Italian,
+31207,dreamy.studying@gmail.com,true,HKU SPACE,Linguistics,Undergraduate,,Student,Education,English,
+47509,hilton9999912@gmail.com,true,-,Accounting,Undergraduate,,Student,Education,Cantonese,
+17758,huanglenilydia@gmail.com,true,-,Business/Marketing/Accounting,Undergraduate,,Student,Education,Cantonese,
+6320,notscam986@gmail.com,true,HPSHCC,Sports and Recreational Management,Higher Diploma,,Intern Personal Trainer Customer Care Representative,"Sports, Fitness, and Recreation",Cantonese,
+32937,o4120323@gmail.com,true,Hong Kong Baptist University,Sociology or Political Science,Undergraduate,,Student,Education,Cantonese,
+58207,shen97089@gmail.com,true,-,Education Technology,Master's,,Student,Education,Mandarin,学生，写论文，医疗健康/心理学
+18444,yieunice21@gmail.com,true,Hong Kong Polytechnic University (PolyU) - College of Professional and Continuing Education (CPCE),Business or Management,Undergraduate,,Student,Education,Chinese (Cantonese),
+56060,perhelps@gmail.com,true,-,Physiotherapy,Undergraduate,,Student,Healthcare,Cantonese,
+58310,bguan@rrc.ca,true,Red River College,Supply Chain Management or Logistics,Undergraduate,,Student,Education,English,
+44959,weblink0912@gmail.com,false,-,-,-,,Online Course Instructor (Video Editing and AI Music),"Education/Online Learning, Digital Content Creation",Traditional Chinese,学生，心理学
+39198,puntszkei1@gmail.com,true,-,Statistics/Data Science/Business Analytics,Undergraduate,,Student,Education,English,
+51090,y.lin58@gmail.com,true,-,"STEM (likely Mechanical Engineering, Mechatronics, or Industrial Technology)",High School,,High School Student,Education,Traditional Chinese,学生，机械工程
+44792,fredhui0105@gmail.com,true,Lingnan University,Critical Thinking / Philosophy,Undergraduate,,Undergraduate Student,Education,Cantonese,
+3221,hingong2006@gmail.com,true,"Hong Kong Community College, The Hong Kong Polytechnic University (HKCC PolyU)",Urban Planning and Real Estate Development / Construction / Surveying,Undergraduate,,Student,Education (Student in Urban Planning/Construction/Surveying),Traditional Chinese,
+47708,nganfun1102.03@gmail.com,true,-,Business/Economics,Undergraduate,,Student,Education,English,
+5277,hcelia0921@gmail.com,true,-,Information Technology,Undergraduate,,Student,Education,Cantonese,
+21437,heyiamlokyi@gmail.com,true,-,Early Childhood Education,Undergraduate,,Student (Early Childhood Education),Education,Cantonese,
+3797,nickngabc@gmail.com,true,The Hang Seng University of Hong Kong (HSUHK),Supply Chain Management,Undergraduate,,Undergraduate Student,Education,Cantonese,
+40054,s181030@stcc.edu.hk,true,Hong Kong Institute of Vocational Education (Shatin) (stcc.edu.hk),Computer Science or Electronic Engineering,Undergraduate,,Student,Education,English,
+4445,wongch425@gmail.com,true,-,Hospitality Management,Undergraduate,,Student,Hospitality and Tourism,Cantonese,
+21382,a770693885@gmail.com,true,-,General Science (Junior High School Level),Junior High School,,Student,Education,Mandarin,高中生，写作业
+18658,cindy20060407@gmail.com,true,-,Business Administration or Economics,Undergraduate,,Student,Education,Traditional Chinese,学生，专业不清楚，通识课程学习
+46811,mansonmansonlam@gmail.com,true,Hong Kong Baptist University (HKBU) College of International Education (CIE),Business/Management Information Systems,Undergraduate,,Student,Education,Traditional Chinese,
+51777,jaselleung@gmail.com,true,-,Nutrition or Health Sciences,Master's,,Student,Education,English,
+60507,ryan.1.shen@gmail.com,false,-,-,-,,Content Creator (YouTuber),Media/Content Creation,Mandarin,
+5405,sabrinahlc1130@gmail.com,true,HKU SPACE,"Media, Communication, or Cultural Studies",Undergraduate,,Student,Education,Cantonese,
+1756,suncheukyin0331@gmail.com,true,-,Environmental Engineering or Occupational Safety/Health,Undergraduate,,Student,Education,Cantonese,
+40220,thomasyeungshing@gmail.com,true,-,Physics or Mathematics (with Economics/Business minor),Undergraduate,,Student,Education,Cantonese,
+3246,chengszeyiu@gmail.com,true,The Chinese University of Hong Kong,Early Childhood Education,Undergraduate,,University Student,Education,Cantonese,
+5536,cherryccy411@gmail.com,true,The Hong Kong Polytechnic University (PolyU),Radiation Therapy / Radiography / Medical Imaging,Undergraduate,,Student (Radiation Therapy / Medical Imaging),Healthcare / Medical Imaging / Radiotherapy,English,
+20085,iventseyiklong@gmail.com,true,The Hong Kong University of Science and Technology,Computer Science,Undergraduate,,Undergraduate Student,Education,English,
+45973,lwkk115@gmail.com,true,-,Media Studies / Chinese Literature,Undergraduate,,Student,Education,Cantonese,
+3111,0930.kelly@gmail.com,true,-,Marketing,Undergraduate,,Student,Education,Cantonese,
+54931,1207kahei@gmail.com,true,-,Linguistics,Undergraduate,,Student,Education,English,
+61229,18262@bacstudent.edu.my,true,BAC (Brickfields Asia College),Law,Undergraduate,,Student,Education (Legal Studies),English,UOL倫敦大學，法律係，做作業+課程學習
+30272,natung1201@gmail.com,true,The Chinese University of Hong Kong,Mathematics or Statistics,Undergraduate,,Student,Education,Cantonese,
+5826,shh405564@gmail.com,true,-,Geography or Human Geography,Undergraduate,,Student,Education,Chinese (Cantonese),
+20677,wychan2359-c@my.cityu.edu.hk,true,City University of Hong Kong,Finance,Undergraduate,,Student,Education,Cantonese,
+34299,bryanliu0429@gmail.com,true,-,Business/Management (with focus on Sustainability or Corporate Social Responsibility),Master's,,Student,Education (Higher Education/University),English,
+35302,s201801037@elearn.cccmkc.edu.hk,true,Caritas Chong Yuet Ming Secondary School (CCCMKC),Business/Accounting/Management,Undergraduate,,Student,Education,Cantonese,
+65234,candy1021588@gmail.com,true,-,Biology,Undergraduate,,Student,Education,Mandarin,学生，生态学
+4135,stongkapo@gmail.com,true,-,Sociology,Undergraduate,,Student,Education,Cantonese,
+54776,wukalong121@gmail.com,true,-,Statistics or Data Science,Undergraduate,,Student,Education,English,
+52638,amber@twiio.com,false,-,-,-,,Marketing/Content Manager,ICT (Information and Communications Technology),Traditional Chinese,职业不清楚，做了很多图
+2371,edith6021@gmail.com,false,-,-,-,,Professional Editor / Report Writer,Legal / Insurance / Risk Management,Cantonese,
+59764,hokamkam4@gmail.com,true,-,Building/Construction/Surveying,Undergraduate,,Student,Construction/Building/Surveying,English,
+55825,iris8888shum@gmail.com,true,The Hong Kong Polytechnic University (PolyU),Finance or Accounting,Undergraduate,,Student,Education,English,
+52933,planimc@gmail.com,true,-,,,,Student,Agriculture/Agri-business,Mandarin,
+22782,totolau120120120@gmail.com,true,Hong Kong Institute of Vocational Education / Hong Kong Design Institute,Occupational Safety and Health,Undergraduate,,Student,Education,Chinese (Cantonese),
+63307,lovey.20060802@gmail.com,true,University of Adelaide,,Undergraduate,,Student,Higher Education,Traditional Chinese,
+2224,manvanessa1108@gmail.com,true,-,Philosophy or Education (with possible focus on value education or humanities),Undergraduate,,Student,Education,Cantonese,學生，HK，哲學系，課程學習
+39121,markcheung0706@gmail.com,true,-,Information Technology / Computer Science / Data Science,Undergraduate,,Student,Education,English,學生，HK，計算機
+52932,tongzhuangzhuang580@gmail.com,-,-,-,-,,-,-,Mandarin,
+3677,wongyeeting15@gmail.com,true,-,"Education/Psychology (Child Development, Special Education)",Master's,,Student (Education/Psychology),Education,Chinese (Cantonese),
+48567,yennis.luk@aswatson.com,false,-,-,-,,Marketing Manager,Beauty and Personal Care,English,
+48282,ccuqvqqoou@gmail.com,false,-,-,-,,Arts Administration Professional / Project Manager,Arts Administration / Public Sector (Cultural Services),Cantonese,
+61777,chkwong1106@gmail.com,true,-,Environmental Science or Engineering,Undergraduate,,Student,Education,Traditional Chinese,
+19359,leongoscarludwig@gmail.com,true,-,Accounting/Finance/Economics,Undergraduate,,Student,Education,English,
+3470,natnatlam129@gmail.com,true,The University of Hong Kong (HKU),Speech-Language Pathology / Communication Sciences and Disorders,Undergraduate,,Student,Education (Speech-Language Pathology / Communication Sciences),English,
+42838,walterliang134134@gmail.com,false,-,-,-,,Project Manager,Software/IT,Traditional Chinese,
+35773,410042820@student.hkue.edu.hk,true,HKUE,Hospitality Management,Undergraduate,,Student,Hospitality,English,
+5718,lam050709@gmail.com,true,HKU SPACE,Health Sciences or Social Sciences,Undergraduate,,Student,Education / Health Sciences,Chinese (Cantonese),
+4426,makhoyam25@gmail.com,true,The Hang Seng University of Hong Kong,Global Supply Chain Management,Undergraduate,,Student / Intern,Supply Chain / Logistics,Chinese,
+41214,shou10435049@gmail.com,true,-,Biomedical Engineering,Undergraduate,,Student,Education,Traditional Chinese,
+1841,slocnteung85@gmail.com,true,-,Nursing,Undergraduate,,Nursing student,Healthcare/Education,Cantonese,

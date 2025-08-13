@@ -1,0 +1,100 @@
+{
+	"is_student": {
+		"candidates": [
+			{
+				"value": false,
+				"confidence": 0.85,
+				"evidence": "The user frequently requests e-commerce image descriptions, data analysis, and visualization tasks, which are more typical of a working professional than a student. No explicit student-related queries or school references are present."
+			}
+		]
+	},
+	"student_info": {
+		"school": {
+			"candidates": [
+				{
+					"value": null,
+					"confidence": 1.0,
+					"evidence": "No information about any school is provided in the user profile or task history."
+				}
+			]
+		},
+		"major": {
+			"candidates": [
+				{
+					"value": null,
+					"confidence": 1.0,
+					"evidence": "No information about any major is provided in the user profile or task history."
+				}
+			]
+		},
+		"degree_level": {
+			"candidates": [
+				{
+					"value": null,
+					"confidence": 1.0,
+					"evidence": "No information about any degree level is provided in the user profile or task history."
+				}
+			]
+		}
+	},
+	"occupation": {
+		"candidates": [
+			{
+				"value": "Data Analyst or E-commerce Specialist",
+				"confidence": 0.7,
+				"evidence": "The user requests data summaries, visualizations, and e-commerce image descriptions, indicating a role related to data analysis or e-commerce content creation."
+			},
+			{
+				"value": null,
+				"confidence": 0.3,
+				"evidence": "No explicit job title is provided."
+			}
+		]
+	},
+	"industry": {
+		"candidates": [
+			{
+				"value": "E-commerce or Technology",
+				"confidence": 0.7,
+				"evidence": "Frequent requests for e-commerce image descriptions, data analysis, and references to technology platforms suggest work in e-commerce or tech."
+			},
+			{
+				"value": null,
+				"confidence": 0.3,
+				"evidence": "No explicit industry is stated."
+			}
+		]
+	},
+	"primary_language": {
+		"candidates": [
+			{
+				"value": "Chinese (Mandarin)",
+				"confidence": 0.7,
+				"evidence": "The user frequently interacts in Chinese, including requests for summaries and visualizations in Chinese, and asks for replies in traditional Chinese."
+			},
+			{
+				"value": "English",
+				"confidence": 0.3,
+				"evidence": "The user also interacts in English, but the majority of complex requests are in Chinese."
+			}
+		]
+	},
+	"gender": {
+		"candidates": [
+			{
+				"value": null,
+				"confidence": 1.0,
+				"evidence": "No information about gender is present in the user profile or task history."
+			}
+		]
+	},
+	"satisfaction": {
+		"candidates": [
+			{
+				"value": "neutral",
+				"confidence": 0.7,
+				"evidence": "The user repeatedly interacts with the system, making many requests, but does not express explicit satisfaction or dissatisfaction."
+			}
+		]
+	}
+}
