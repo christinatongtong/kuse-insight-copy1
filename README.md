@@ -15,12 +15,12 @@ SELECT DISTINCT user_id
 FROM tasks
 WHERE created_at >= DATE_SUB(CURRENT_DATE, INTERVAL 3 MONTH) AND task_type = 'communication';
 """
-```
 
 To Run:
 
 ```shell
 go run main.go
+
 ```
 
 To Clound Run, refer to /jobs
